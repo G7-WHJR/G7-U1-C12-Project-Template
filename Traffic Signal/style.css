@@ -1,6 +1,8 @@
-html, body {
-  margin: 0;
+html,
+body {
+  margin: 5px;
   padding: 0;
-  overflow: hidden;
 }
-
+canvas {
+  display: block;
+}
